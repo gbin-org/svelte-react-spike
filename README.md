@@ -1,3 +1,5 @@
+A proof of concept to render react components in a svelte app.
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
